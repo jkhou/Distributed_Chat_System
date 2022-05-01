@@ -1,0 +1,67 @@
+20:21:11=>[INFO]: zookeeper init success
+20:21:11=>[ERROR]: can't get znode... path: /LogServerRpc/Log_ERROR
+20:23:48=>[INFO]: zookeeper init success
+20:27:11=>[INFO]: zookeeper init success
+20:27:42=>[INFO]: zookeeper init success
+20:30:52=>[INFO]: zookeeper init success
+21: 2: 0=>[INFO]: zookeeper init success
+21: 3:49=>[INFO]: zookeeper init success
+21: 3:49=>[ERROR]: can't get znode... path: /LogServerRpc/Log_ERROR
+21:17:40=>[INFO]: zookeeper init success
+21:19:16=>[INFO]: zookeeper init success
+21:21:32=>[INFO]: zookeeper init success
+21:23:59=>[INFO]: zookeeper init success
+21:23:59=>[ERROR]: can't get znode... path: /LogServerRpc/Log_INFO
+21:31:36=>[INFO]: zookeeper init success
+21:51: 2=>[INFO]: zookeeper init success
+21:51:33=>[INFO]: zookeeper init success
+21:51:33=>[INFO]: znode create  success...path: /UserServiceRpc
+21:51:33=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+21:51:33=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+21:51:33=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+21:51:33=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+21:51:44=>[INFO]: zookeeper init success
+21:52:39=>[INFO]: zookeeper init success
+21:54:19=>[INFO]: zookeeper init success
+21:54:19=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+21:54:19=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+21:54:19=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+21:54:19=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+21:58:28=>[INFO]: zookeeper init success
+21:54:19=>[INFO]: header size: 25
+21:58:28=>[INFO]: <------------------------------------------------>
+21:58:28=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+21:58:28=>[INFO]: service name: UserServiceRpc
+21:58:28=>[INFO]: method name: Login
+21:58:28=>[INFO]: args: 123456
+21:58:28=>[INFO]: <------------------------------------------------>
+22:45:20=>[INFO]: zookeeper init success
+22:45:20=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+22:45:20=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+22:45:20=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+22:45:20=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+22:45:30=>[INFO]: zookeeper init success
+22:45:20=>[INFO]: header size: 25
+22:45:30=>[INFO]: <------------------------------------------------>
+22:45:30=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+22:45:30=>[INFO]: service name: UserServiceRpc
+22:45:30=>[INFO]: method name: Login
+22:45:30=>[INFO]: args: 123456
+22:45:30=>[INFO]: <------------------------------------------------>
+22:45:30=>[INFO]: zookeeper init success
+22:45:30=>[INFO]: header size: 27
+22:45:31=>[INFO]: <------------------------------------------------>
+22:45:31=>[INFO]: rpc header str: 
+UserServiceRpcRegiste
+
+22:45:31=>[INFO]: service name: UserServiceRpc
+22:45:31=>[INFO]: method name: Registe
+22:45:31=>[INFO]: args: 
+hjk123
+22:45:31=>[INFO]: <------------------------------------------------>
+22:45:31=>[INFO]: zookeeper init success
+22:45:31=>[FATAL]: connet error! errno: 111

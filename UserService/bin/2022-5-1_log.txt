@@ -1,0 +1,427 @@
+10: 1:54=>[INFO]: zookeeper init success
+10: 1:54=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10: 1:54=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10: 1:54=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10: 1:54=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10: 1:57=>[INFO]: zookeeper init success
+10: 1:54=>[INFO]: header size: 25
+10: 1:57=>[INFO]: <------------------------------------------------>
+10: 1:57=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10: 1:57=>[INFO]: service name: UserServiceRpc
+10: 1:57=>[INFO]: method name: Login
+10: 1:57=>[INFO]: args: 123456
+10: 1:57=>[INFO]: <------------------------------------------------>
+10: 1:57=>[INFO]: zookeeper init success
+10: 1:57=>[INFO]: header size: 27
+10: 1:58=>[INFO]: <------------------------------------------------>
+10: 1:58=>[INFO]: rpc header str: 
+UserServiceRpcRegiste
+
+10: 1:58=>[INFO]: service name: UserServiceRpc
+10: 1:58=>[INFO]: method name: Registe
+10: 1:58=>[INFO]: args: 
+hjk123
+10: 1:58=>[INFO]: <------------------------------------------------>
+10: 1:58=>[INFO]: zookeeper init success
+10: 1:59=>[FATAL]: connet error! errno: 111
+10: 5:29=>[INFO]: zookeeper init success
+10: 5:29=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10: 5:29=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10: 5:29=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10: 5:29=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10: 5:31=>[INFO]: zookeeper init success
+10: 5:29=>[INFO]: header size: 25
+10: 5:31=>[INFO]: <------------------------------------------------>
+10: 5:31=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10: 5:31=>[INFO]: service name: UserServiceRpc
+10: 5:31=>[INFO]: method name: Login
+10: 5:31=>[INFO]: args: 123456
+10: 5:31=>[INFO]: <------------------------------------------------>
+10: 5:31=>[INFO]: zookeeper init success
+10: 5:31=>[INFO]: header size: 27
+10: 5:32=>[INFO]: <------------------------------------------------>
+10: 5:32=>[INFO]: rpc header str: 
+UserServiceRpcRegiste
+
+10: 5:32=>[INFO]: service name: UserServiceRpc
+10: 5:32=>[INFO]: method name: Registe
+10: 5:32=>[INFO]: args: 
+hjk123
+10: 5:32=>[INFO]: <------------------------------------------------>
+10: 5:32=>[INFO]: zookeeper init success
+10: 7:20=>[INFO]: zookeeper init success
+10: 5:32=>[INFO]: header size: 25
+10: 7:20=>[INFO]: <------------------------------------------------>
+10: 7:20=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10: 7:20=>[INFO]: service name: UserServiceRpc
+10: 7:20=>[INFO]: method name: Login
+10: 7:20=>[INFO]: args: 123456
+10: 7:20=>[INFO]: <------------------------------------------------>
+10: 7:20=>[INFO]: zookeeper init success
+10: 7:20=> Ÿ’Ù…U10: 8:52=>[INFO]: zookeeper init success
+10: 8:52=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10: 8:52=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10: 8:52=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10: 8:52=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10: 8:54=>[INFO]: zookeeper init success
+10: 8:52=>[INFO]: header size: 25
+10: 8:54=>[INFO]: <------------------------------------------------>
+10: 8:54=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10: 8:54=>[INFO]: service name: UserServiceRpc
+10: 8:54=>[INFO]: method name: Login
+10: 8:54=>[INFO]: args: 123456
+10: 8:54=>[INFO]: <------------------------------------------------>
+10:10:21=>[INFO]: zookeeper init success
+10: 8:54=>[INFO]: header size: 25
+10:10:21=>[INFO]: <------------------------------------------------>
+10:10:21=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:10:21=>[INFO]: service name: UserServiceRpc
+10:10:21=>[INFO]: method name: Login
+10:10:21=>[INFO]: args: 123456
+10:10:21=>[INFO]: <------------------------------------------------>
+10:18:30=>[INFO]: zookeeper init success
+10:18:30=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:18:30=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:18:30=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:18:30=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:18:32=>[INFO]: zookeeper init success
+10:18:30=>[INFO]: header size: 25
+10:18:32=>[INFO]: <------------------------------------------------>
+10:18:32=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:18:32=>[INFO]: service name: UserServiceRpc
+10:18:32=>[INFO]: method name: Login
+10:18:32=>[INFO]: args: 123456
+10:18:32=>[INFO]: <------------------------------------------------>
+10:18:52=>[INFO]: zookeeper init success
+10:18:32=>[INFO]: header size: 25
+10:18:52=>[INFO]: <------------------------------------------------>
+10:18:52=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:18:52=>[INFO]: service name: UserServiceRpc
+10:18:52=>[INFO]: method name: Login
+10:18:52=>[INFO]: args: 123456
+10:18:52=>[INFO]: <------------------------------------------------>
+10:19:52=>[INFO]: zookeeper init success
+10:19:52=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:19:52=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:19:52=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:19:52=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:19:54=>[INFO]: zookeeper init success
+10:19:52=>[INFO]: header size: 25
+10:19:54=>[INFO]: <------------------------------------------------>
+10:19:54=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:19:54=>[INFO]: service name: UserServiceRpc
+10:19:54=>[INFO]: method name: Login
+10:19:54=>[INFO]: args: 123456
+10:19:54=>[INFO]: <------------------------------------------------>
+10:21:12=>[INFO]: zookeeper init success
+10:19:54=>[INFO]: header size: 25
+10:21:12=>[INFO]: <------------------------------------------------>
+10:21:12=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:21:12=>[INFO]: service name: UserServiceRpc
+10:21:12=>[INFO]: method name: Login
+10:21:12=>[INFO]: args: 123456
+10:21:12=>[INFO]: <------------------------------------------------>
+10:22:37=>[INFO]: zookeeper init success
+10:22:37=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:22:37=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:22:37=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:22:37=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:22:39=>[INFO]: zookeeper init success
+10:22:37=>[INFO]: header size: 25
+10:22:39=>[INFO]: <------------------------------------------------>
+10:22:39=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:22:39=>[INFO]: service name: UserServiceRpc
+10:22:39=>[INFO]: method name: Login
+10:22:39=>[INFO]: args: 123456
+10:22:39=>[INFO]: <------------------------------------------------>
+10:22:46=>[INFO]: zookeeper init success
+10:22:39=>[INFO]: header size: 25
+10:22:46=>[INFO]: <------------------------------------------------>
+10:22:46=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:22:46=>[INFO]: service name: UserServiceRpc
+10:22:46=>[INFO]: method name: Login
+10:22:46=>[INFO]: args: 123456
+10:22:46=>[INFO]: <------------------------------------------------>
+10:22:51=>[INFO]: zookeeper init success
+10:22:46=>[INFO]: header size: 25
+10:22:51=>[INFO]: <------------------------------------------------>
+10:22:51=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:22:51=>[INFO]: service name: UserServiceRpc
+10:22:51=>[INFO]: method name: Login
+10:22:51=>[INFO]: args: 123456
+10:22:51=>[INFO]: <------------------------------------------------>
+10:23: 1=>[INFO]: zookeeper init success
+10:23: 1=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:23: 5=>[INFO]: zookeeper init success
+10:23: 1=>[INFO]: header size: 25
+10:23: 5=>[INFO]: <------------------------------------------------>
+10:23: 5=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:23: 5=>[INFO]: service name: UserServiceRpc
+10:23: 5=>[INFO]: method name: Login
+10:23: 5=>[INFO]: args: 123456
+10:23: 5=>[INFO]: <------------------------------------------------>
+10:23:13=>[INFO]: zookeeper init success
+10:23: 5=>[INFO]: header size: 25
+10:23:13=>[INFO]: <------------------------------------------------>
+10:23:13=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:23:13=>[INFO]: service name: UserServiceRpc
+10:23:13=>[INFO]: method name: Login
+10:23:13=>[INFO]: args: 123456
+10:23:13=>[INFO]: <------------------------------------------------>
+10:25:48=>[INFO]: zookeeper init success
+10:25:48=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:25:48=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:25:48=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:25:48=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:25:50=>[INFO]: zookeeper init success
+10:25:48=>[INFO]: header size: 25
+10:25:50=>[INFO]: <------------------------------------------------>
+10:25:50=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:25:50=>[INFO]: service name: UserServiceRpc
+10:25:50=>[INFO]: method name: Login
+10:25:50=>[INFO]: args: 123456
+10:25:50=>[INFO]: <------------------------------------------------>
+10:25:50=>[INFO]: zookeeper init success
+10:25:50=>[INFO]: header size: 25
+10:25:51=>[INFO]: <------------------------------------------------>
+10:25:51=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:25:51=>[INFO]: service name: UserServiceRpc
+10:25:51=>[INFO]: method name: Login
+10:25:51=>[INFO]: args: 333333
+10:25:51=>[INFO]: <------------------------------------------------>
+10:25:51=>[INFO]: zookeeper init success
+10:25:51=>[INFO]: header size: 25
+10:25:51=>[INFO]: <------------------------------------------------>
+10:25:51=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:25:51=>[INFO]: service name: UserServiceRpc
+10:25:51=>[INFO]: method name: Login
+10:25:51=>[INFO]: args: 444444
+10:25:51=>[INFO]: <------------------------------------------------>
+10:25:51=>[INFO]: zookeeper init success
+10:25:51=>[FATAL]: connet error! errno: 111
+10:45:56=>[INFO]: zookeeper init success
+10:45:56=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:45:56=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:45:56=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:45:56=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:46: 0=>[INFO]: zookeeper init success
+10:45:56=>[INFO]: header size: 25
+10:46: 0=>[INFO]: <------------------------------------------------>
+10:46: 0=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:46: 0=>[INFO]: service name: UserServiceRpc
+10:46: 0=>[INFO]: method name: Login
+10:46: 0=>[INFO]: args: 123456
+10:46: 0=>[INFO]: <------------------------------------------------>
+10:46: 0=>[INFO]: zookeeper init success
+10:46: 0=>[INFO]: header size: 25
+10:46: 1=>[INFO]: <------------------------------------------------>
+10:46: 1=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:46: 1=>[INFO]: service name: UserServiceRpc
+10:46: 1=>[INFO]: method name: Login
+10:46: 1=>[INFO]: args: 333333
+10:46: 1=>[INFO]: <------------------------------------------------>
+10:46: 1=>[INFO]: zookeeper init success
+10:46: 1=>[INFO]: header size: 25
+10:46: 1=>[INFO]: <------------------------------------------------>
+10:46: 1=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:46: 1=>[INFO]: service name: UserServiceRpc
+10:46: 1=>[INFO]: method name: Login
+10:46: 1=>[INFO]: args: 444444
+10:46: 1=>[INFO]: <------------------------------------------------>
+10:46: 1=>[INFO]: zookeeper init success
+10:46: 1=>[FATAL]: connet error! errno: 111
+10:52:33=>[INFO]: zookeeper init success
+10:52:33=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:52:33=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:52:33=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:52:33=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:52:35=>[INFO]: zookeeper init success
+10:52:33=>[INFO]: header size: 25
+10:52:35=>[INFO]: <------------------------------------------------>
+10:52:35=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:52:35=>[INFO]: service name: UserServiceRpc
+10:52:35=>[INFO]: method name: Login
+10:52:35=>[INFO]: args: 123456
+10:52:35=>[INFO]: <------------------------------------------------>
+10:52:35=>[INFO]: zookeeper init success
+10:52:35=>[INFO]: header size: 25
+10:52:36=>[INFO]: <------------------------------------------------>
+10:52:36=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:52:36=>[INFO]: service name: UserServiceRpc
+10:52:36=>[INFO]: method name: Login
+10:52:36=>[INFO]: args: 333333
+10:52:36=>[INFO]: <------------------------------------------------>
+10:52:36=>[INFO]: zookeeper init success
+10:52:36=>[FATAL]: connet error! errno: 111
+10:55: 3=>[INFO]: zookeeper init success
+10:55: 3=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:55: 3=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:55: 3=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:55: 3=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:55: 5=>[INFO]: zookeeper init success
+10:55: 3=>[INFO]: header size: 25
+10:55: 5=>[INFO]: <------------------------------------------------>
+10:55: 5=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:55: 5=>[INFO]: service name: UserServiceRpc
+10:55: 5=>[INFO]: method name: Login
+10:55: 5=>[INFO]: args: 123456
+10:55: 5=>[INFO]: <------------------------------------------------>
+10:55: 5=>[INFO]: zookeeper init success
+10:55: 5=>[INFO]: header size: 25
+10:55: 6=>[INFO]: <------------------------------------------------>
+10:55: 6=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:55: 6=>[INFO]: service name: UserServiceRpc
+10:55: 6=>[INFO]: method name: Login
+10:55: 6=>[INFO]: args: 333333
+10:55: 6=>[INFO]: <------------------------------------------------>
+10:55: 6=>[INFO]: zookeeper init success
+10:55: 6=>[INFO]: header size: 25
+10:55: 6=>[INFO]: <------------------------------------------------>
+10:55: 6=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:55: 6=>[INFO]: service name: UserServiceRpc
+10:55: 6=>[INFO]: method name: Login
+10:55: 6=>[INFO]: args: 444444
+10:55: 6=>[INFO]: <------------------------------------------------>
+10:55: 6=>[INFO]: zookeeper init success
+10:55: 6=>[FATAL]: connet error! errno: 111
+10:58: 2=>[INFO]: zookeeper init success
+10:58: 2=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:58: 2=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:58: 2=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:58: 2=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:58: 3=>[INFO]: zookeeper init success
+10:58: 2=>[INFO]: header size: 25
+10:58: 3=>[INFO]: <------------------------------------------------>
+10:58: 3=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:58: 3=>[INFO]: service name: UserServiceRpc
+10:58: 3=>[INFO]: method name: Login
+10:58: 3=>[INFO]: args: 123456
+10:58: 3=>[INFO]: <------------------------------------------------>
+10:58: 3=>[INFO]: zookeeper init success
+10:58: 3=>[INFO]: header size: 25
+10:58: 4=>[INFO]: <------------------------------------------------>
+10:58: 4=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:58: 4=>[INFO]: service name: UserServiceRpc
+10:58: 4=>[INFO]: method name: Login
+10:58: 4=>[INFO]: args: 333333
+10:58: 4=>[INFO]: <------------------------------------------------>
+10:58: 4=>[INFO]: zookeeper init success
+10:58: 4=>[INFO]: header size: 25
+10:58: 4=>[INFO]: <------------------------------------------------>
+10:58: 4=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:58: 4=>[INFO]: service name: UserServiceRpc
+10:58: 4=>[INFO]: method name: Login
+10:58: 4=>[INFO]: args: 444444
+10:58: 4=>[INFO]: <------------------------------------------------>
+10:58: 4=>[INFO]: zookeeper init success
+10:58: 4=>[FATAL]: connet error! errno: 111
+10:59: 8=>[INFO]: zookeeper init success
+10:59: 8=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+10:59: 8=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+10:59: 8=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+10:59: 8=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+10:59: 9=>[INFO]: zookeeper init success
+10:59: 8=>[INFO]: header size: 25
+10:59: 9=>[INFO]: <------------------------------------------------>
+10:59: 9=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:59: 9=>[INFO]: service name: UserServiceRpc
+10:59: 9=>[INFO]: method name: Login
+10:59: 9=>[INFO]: args: 123456
+10:59: 9=>[INFO]: <------------------------------------------------>
+10:59: 9=>[INFO]: zookeeper init success
+10:59: 9=>[INFO]: header size: 25
+10:59:10=>[INFO]: <------------------------------------------------>
+10:59:10=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+10:59:10=>[INFO]: service name: UserServiceRpc
+10:59:10=>[INFO]: method name: Login
+10:59:10=>[INFO]: args: 333333
+10:59:10=>[INFO]: <------------------------------------------------>
+10:59:10=>[INFO]: zookeeper init success
+10:59:11=>[FATAL]: connet error! errno: 111
+11: 5:21=>[INFO]: zookeeper init success
+11: 5:21=>[INFO]: znode create  success...path: /UserServiceRpc/LoginOut
+11: 5:21=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+11: 5:21=>[INFO]: znode create  success...path: /UserServiceRpc/Registe
+11: 5:21=>[INFO]: server RpcProvider [ip: 127.0.0.1][port: 6011]
+11: 5:23=>[INFO]: zookeeper init success
+11: 5:21=>[INFO]: header size: 25
+11: 5:23=>[INFO]: <------------------------------------------------>
+11: 5:23=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+11: 5:23=>[INFO]: service name: UserServiceRpc
+11: 5:23=>[INFO]: method name: Login
+11: 5:23=>[INFO]: args: 123456
+11: 5:23=>[INFO]: <------------------------------------------------>
+11: 5:23=>[INFO]: zookeeper init success
+11: 5:23=>[INFO]: header size: 25
+11: 5:24=>[INFO]: <------------------------------------------------>
+11: 5:24=>[INFO]: rpc header str: 
+UserServiceRpcLogin
+
+11: 5:24=>[INFO]: service name: UserServiceRpc
+11: 5:24=>[INFO]: method name: Login
+11: 5:24=>[INFO]: args: 333333
+11: 5:24=>[INFO]: <------------------------------------------------>
+11: 5:24=>[INFO]: zookeeper init success
+11: 5:24=>[FATAL]: connet error! errno: 111
