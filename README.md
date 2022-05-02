@@ -1,6 +1,9 @@
 # Distributed_Chat_System
 简介：工作在nginx tcp负载均衡/一致性哈希负载均衡环境中的集群聊天服务器和客户端, 网络模块基于muduo实现，基于protobuf和zookeeper实现的RPC框架来完成分布式通信。
 
+**整体框架：**
+![git-command.jpg](pic.png)
+
 ## 聊天业务
 ```
     {"help", "显示所有支持的命令，格式 help"},
